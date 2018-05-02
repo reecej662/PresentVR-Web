@@ -1,0 +1,5 @@
+This is a test text file to test adding a transcript to PresentVR.
+
+In the end state, this file will be parsed to a string and stored in MySQL. 
+
+Through a socket connection it will then be sent to the app 5 words at a time in a HUD for the user. Hopefully this shit works.
