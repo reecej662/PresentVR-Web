@@ -17,7 +17,8 @@ const mapDispatchToProps = dispatch => ({
 
 class RoomPage extends Component {
 	render() {
-		this.props.onLoad(this.props.roomCode);
+		if(this.props.sessionId == null)
+			this.props.onLoad(this.props.roomCode);
 
 		return (
 			<div className="App">

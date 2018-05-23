@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="836px" height="80px" viewBox="0 0 836 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>dev_index_dark@10x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i');
+    </style>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="110" font-family="Lato-Heavy, Lato" letter-spacing="40" font-weight="600">
+        <g id="Desktop" transform="translate(-543.000000, -1718.000000)">
+            <g id="dev_index_dark" transform="translate(535.000000, 1689.000000)">
+                <text id="DEVINDEX" style="font-family: 'Lato';">
+                    <tspan x="0" y="109" fill="#315AFF">DEV</tspan>
+                    <tspan x="344.07" y="109" fill="#002940">INDE</tspan>
+                    <tspan x="769.335" y="109" fill="#002940">X</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

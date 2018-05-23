@@ -11,22 +11,27 @@ export class TranscriptForm extends Component {
 		event.nativeEvent.stopImmediatePropagation();
 		event.preventDefault();
 
-		console.log(this.fileInput.files.length);
+		if(this.fileInput.files[0]) {
+			console.log(this.fileInput.files[0]);
 
-		if(this.fileInput.files.length && this.fileInput.files.length > 0) {
 			var data = new FormData();
-			data.set('files', this.fileInput.files);
+			data.set('file', this.fileInput.files[0]);
+			data.set('filename', this.fileInput.files[0].name);
 
 			const session = this.props.session;
 
-		    fetch("http://104.131.9.190:3000/r/" + session + "/presentation", {
+		    fetch("http://104.131.9.190:3000/p/" + this.props.presentation.id + "/slides", {
 				method: 'POST',
-				body: data,
+				body: data
 		    }).then((response) => {
 		 		console.log(response);
+		    }).catch(error => {
+		    	console.log(error);
+		    	alert("Sorry, there was an error uploading your transcript. Please try again later.");
 		    });
 		} else {
-			console.log("Error getting files");
+			console.log("Error getting file");
+			alert("There was an error uploading your transcript. Please check the format of the chosen file.");
 		}
 	}
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="74px" viewBox="0 0 355 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>verfied_case</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="verfied_case">
+            <rect id="Rectangle" fill="#4C6BFF" x="0" y="0" width="355" height="74" rx="37"></rect>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="75.5926702 25.2272251 76.0010471 24.9005236 71.1005236 20 49.5382199 41.4806283 39.9005236 31.8429319 35 36.6617801 49.5382199 51.2"></polygon>
+            <text id="VERIFIED" font-family="AvenirNext-Medium, Avenir Next" font-size="35" font-weight="400" letter-spacing="10.5" fill="#FFFFFF">
+                <tspan x="99" y="49">VERIFIED</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

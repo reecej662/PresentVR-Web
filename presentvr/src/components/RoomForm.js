@@ -5,6 +5,7 @@ import { clearError } from '../actions/error';
 import '../App.css';
 
 const mapStateToProps = state => ({
+	user: state.user,
 	roomCode: state.roomCode,
 	error: state.error
 });

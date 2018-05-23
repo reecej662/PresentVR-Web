@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search" transform="translate(0.000000, -1.000000)" fill-rule="nonzero" fill="#4C6BFF">
+            <g id="Group" transform="translate(0.000000, 0.637820)">
+                <path d="M28.99855,0.36216 C13.01875,0.36216 -5e-05,13.3808 -5e-05,29.36078 C-5e-05,45.3407 13.01875,58.3594 28.99855,58.3594 C35.91745,58.3594 42.28665,55.9245 47.27885,51.8597 L70.87155,75.4836 C72.04295,76.655 73.94995,76.6551 75.12135,75.4836 C76.29295,74.3121 76.29295,72.4053 75.12135,71.2338 L51.49745,47.6412 C55.56235,42.6489 57.99715,36.2797 57.99715,29.36078 C57.99715,13.3808 44.97845,0.36216 28.99855,0.36216 Z M28.99855,6.36188 C41.73595,6.36188 51.99745,16.62333 51.99745,29.36078 C51.99745,42.0981 41.73595,52.3597 28.99855,52.3597 C16.26115,52.3597 5.99965,42.0981 5.99965,29.36078 C5.99965,16.62333 16.26115,6.36188 28.99855,6.36188 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
